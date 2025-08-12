@@ -8,3 +8,7 @@ lista[1]
 
 print(lista[1])
 
+lista2 = np.append(lista, 4)
+
+print(lista2)
+

@@ -4,3 +4,7 @@ lista = np.array([1,2,3])
 
 print(lista)
 
+lista[1]
+
+print(lista[1])
+

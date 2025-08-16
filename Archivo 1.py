@@ -12,3 +12,6 @@ lista2 = np.append(lista, 4)
 
 print(lista2)
 
+lista3 = np.append(lista2, 5)
+
+print(lista3)
